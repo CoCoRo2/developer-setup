@@ -1,7 +1,20 @@
-# Setting up Development Environment
+# Development Environment for Baxter's Mobility Base
 
-1. TOC
-{:toc}
+<details>
+  <summary>
+    <strong>Table of Contents</strong>
+    <small><i>(🔎 Click to expand)</i></small>
+  </summary>
 
-2. Containers
-{:containers}
+* [Features](#features)
+* [Screenshot](#screenshot)
+* [Pre-requisites](#pre-requisites)
+
+</details>
+
+## Features
+
+## Screenshot
+
+## Pre-requisites
+
